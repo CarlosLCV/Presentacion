@@ -1,0 +1,3 @@
+# Doumento creado desde GitHub
+set.seed(1234567)
+rpois(18, lambda = 2)
